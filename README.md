@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to My Cyber World! 🚀
+# <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="30" height="30" alt="rocket"/> Welcome to My Cyber World! <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="30" height="30" alt="rocket"/>
 
 ```
  ██████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗███████╗ ██████╗
@@ -16,20 +16,22 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=said-mammadov&color=blueviolet&style=for-the-badge)](https://github.com/said-mammadov)
 [![Followers](https://img.shields.io/github/followers/said-mammadov?label=Followers&style=social)](https://github.com/said-mammadov)
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="3" alt="divider">
+
 </div>
 
 ---
 
-## 📋 Table of Contents
-- [👋 Introduction](#-introduction)
-- [🛡️ About Me](#-about-me)
-- [🏆 Achievements](#-achievements)
-- [🛠️ Skills & Tools](#-skills--tools)
-- [🚀 Projects](#-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🎯 Currently Working On](#-currently-working-on)
-- [🌐 Connect with Me](#-connect-with-me)
-- [🎲 Fun Zone](#-fun-zone)
+## <img src="https://img.icons8.com/ios-filled/50/000000/list.png" width="20" height="20" alt="list"/> Table of Contents
+- [<img src="https://img.icons8.com/ios-filled/50/000000/hand.png" width="20" height="20" alt="wave"/> Introduction](#-introduction)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/shield.png" width="20" height="20" alt="shield"/> About Me](#-about-me)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/trophy.png" width="20" height="20" alt="trophy"/> Achievements](#-achievements)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/tools.png" width="20" height="20" alt="tools"/> Skills & Tools](#-skills--tools)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="20" height="20" alt="rocket"/> Projects](#-projects)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/chart.png" width="20" height="20" alt="chart"/> GitHub Stats](#-github-stats)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/target.png" width="20" height="20" alt="target"/> Currently Working On](#-currently-working-on)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/globe.png" width="20" height="20" alt="globe"/> Connect with Me](#-connect-with-me)
+- [<img src="https://img.icons8.com/ios-filled/50/000000/dice.png" width="20" height="20" alt="dice"/> Fun Zone](#-fun-zone)
 
 ---
 
@@ -47,30 +49,22 @@ And yes, I'm "Pikaroo" – a chess grandmaster in the making, blending strategic
 
 ## 🛡️ About Me
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Shabran%2C%20Azerbaijan-FF6B6B?style=for-the-badge&logo=map&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Education-Information%20Security%20at%20UNEC-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years%20in%20Cybersecurity-45B7D1?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/>
+</p>
 
-### Professional Profile
-- 🌍 **Location**: Shabran, Azerbaijan
-- 🎓 **Education**: Information Security at UNEC (Digital Economy faculty)
-- 💼 **Experience**: 3+ years in Cybersecurity
-- 🔍 **Specializations**: Penetration Testing, Web Security, Digital Forensics
-- 💡 **Interests**: Cryptocurrencies, Cybernetics, Ethical Hacking
-- 🏆 **Creator**: [PikaSec.com](https://pikasec.com) - A security-focused platform
+<p align="center">
+  <img src="https://img.shields.io/badge/Specializations-Penetration%20Testing%2C%20Web%20Security%2C%20Digital%20Forensics-F7DC6F?style=for-the-badge&logo=search&logoColor=white" alt="Specializations"/>
+  <img src="https://img.shields.io/badge/Interests-Cryptocurrencies%2C%20Cybernetics%2C%20Ethical%20Hacking-9B59B6?style=for-the-badge&logo=light-bulb&logoColor=white" alt="Interests"/>
+</p>
 
-</td>
-<td width="50%">
-
-### Personal Touch
-- ♟️ **Chess Enthusiast**: Competitive ELO rating, strategic thinker
-- ⚡ **Nickname Origin**: "Pikaroo" = Pikachu + "Roo" (my style)
-- 🎯 **Philosophy**: Security through innovation and continuous learning
-- 🌟 **Fun Fact**: I can hack systems and checkmate opponents simultaneously!
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Creator-PikaSec.com-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" alt="Creator"/>
+  <img src="https://img.shields.io/badge/Chess%20Enthusiast-Competitive%20ELO-4ECDC4?style=for-the-badge&logo=chess&logoColor=white" alt="Chess"/>
+  <img src="https://img.shields.io/badge/Nickname-Pikaroo-45B7D1?style=for-the-badge&logo=lightning-bolt&logoColor=white" alt="Nickname"/>
+</p>
 
 ---
 
@@ -111,6 +105,13 @@ And yes, I'm "Pikaroo" – a chess grandmaster in the making, blending strategic
 - 🛠️ **Docker, Kubernetes, AWS Security Services**
 - 📊 **ELK Stack, Splunk for Log Analysis**
 - 🔍 **Autopsy, Volatility for Digital Forensics**
+
+### Skills Progress
+- Penetration Testing: ██████████ 100%
+- Web Security: ████████░░ 80%
+- Digital Forensics: ███████░░░ 70%
+- Cryptocurrency Security: ██████░░░░ 60%
+- Cybernetics: ████░░░░░░ 40%
 
 ---
 
@@ -159,10 +160,15 @@ And yes, I'm "Pikaroo" – a chess grandmaster in the making, blending strategic
 
 ## 🎯 Currently Working On
 
-- 🔬 **AI-Powered Security Tools**: Integrating machine learning for threat detection
-- 🌐 **Decentralized Security Platform**: Blockchain-based authentication system
-- 📚 **Cybersecurity Course**: Creating comprehensive learning materials
-- ♟️ **Chess AI Integration**: Building a chess engine with security algorithms
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Powered%20Security%20Tools-Integrating%20ML-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI Tools"/>
+  <img src="https://img.shields.io/badge/Decentralized%20Security%20Platform-Blockchain%20Auth-4ECDC4?style=for-the-badge&logo=blockchain&logoColor=white" alt="Decentralized"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Course-Comprehensive%20Materials-45B7D1?style=for-the-badge&logo=book&logoColor=white" alt="Course"/>
+  <img src="https://img.shields.io/badge/Chess%20AI%20Integration-Security%20Algorithms-F7DC6F?style=for-the-badge&logo=chess&logoColor=white" alt="Chess AI"/>
+</p>
 
 ---
 
@@ -211,6 +217,13 @@ And yes, I'm "Pikaroo" – a chess grandmaster in the making, blending strategic
   <img src="https://img.shields.io/badge/Chess%20Games%20Won-200%2B-4ECDC4?style=for-the-badge&logo=chess&logoColor=white" alt="Chess Wins"/>
 </p>
 
+### Random Facts
+- I can type 100 WPM
+- Chess rating: 1800+
+- Favorite food: Pizza
+- Dream vacation: Japan
+- I speak 3 languages fluently
+
 ---
 
 <div align="center">
@@ -222,9 +235,3 @@ And yes, I'm "Pikaroo" – a chess grandmaster in the making, blending strategic
 🔥 **Hire Me**: Looking for a cybersecurity expert? Check out my [LinkedIn](https://linkedin.com/in/said-mammadov) for opportunities.
 
 ---
-
-🚀 **Always learning, always building, always securing.**
-
-*Thanks for visiting my profile! Let's connect and secure the digital world together. Stay safe out there! 🛡️*
-
-</div>
